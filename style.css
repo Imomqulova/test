@@ -1,0 +1,9 @@
+body{
+    background: #444;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 150px;
+    color: #fff;
+    text-shadow: 23px 19px 45px #000;
+}
