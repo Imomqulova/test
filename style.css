@@ -6,4 +6,6 @@ body{
     font-size: 150px;
     color: #fff;
     text-shadow: 23px 19px 45px #000;
+    font-family: Roboto;
+    font-weight: 400px;
 }
